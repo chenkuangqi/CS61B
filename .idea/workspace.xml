@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a014f6d-e85f-48a4-a2b6-a0c459a41f41" name="Changes" comment="v1">
-      <change afterPath="$PROJECT_DIR$/Lesson3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/src/TestSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6a014f6d-e85f-48a4-a2b6-a0c459a41f41" name="Changes" comment="v2">
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/AddConstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/IntListExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/src/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/timingtest/AList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/timingtest/SLList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/timingtest/StopwatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/timingtest/TimeAList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/timingtest/TimeSLList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BreakContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalWithBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConditionalWithBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintAbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintAbsoluteValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +53,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "15",
+    "last_opened_file_path": "/Users/apple/IdeaProjects/CS61B",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson5/timingtest" />
+      <recent name="$PROJECT_DIR$/Lesson5" />
+      <recent name="$PROJECT_DIR$/Lesson4/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="IntList" />
     </key>
   </component>
   <component name="RunManager">
@@ -83,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665543178065</updated>
     </task>
+    <task id="LOCAL-00001" summary="v2">
+      <created>1665706616679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665706616679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
