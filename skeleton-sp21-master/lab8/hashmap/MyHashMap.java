@@ -1,5 +1,7 @@
 package hashmap;
 
+import sun.jvm.hotspot.utilities.UnsupportedPlatformException;
+
 import java.util.Collection;
 
 /**
@@ -88,4 +90,7 @@ public class MyHashMap<K, V> implements Map61B<K, V> {
     // TODO: Implement the methods of the Map61B Interface below
     // Your code won't compile until you do so!
 
+    public V remove(K key){ throw new UnsupportedPlatformException();}
+
+    }
 }
